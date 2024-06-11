@@ -20,10 +20,12 @@
     
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SL1dee36&theme=dark&mode=weekly)](https://git.io/streak-stats)
   </div>
-  <div>
+  
+  <!--<div>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SL1dee36&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
-  </div>
+  </div>-->
+  
 </div>
 
 
