@@ -12,7 +12,7 @@
   </a>
   </div>
 
-  <img src="https://komarev.com/ghpvc/?username=SL1dee36&style=for-the-badge&color=brightgreen" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=SL1dee36&style=for-the-badge&color=brightgreen" alt="1"/>
 
   
   <div>
