@@ -18,7 +18,8 @@
   <div>
   <p>
     
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SL1dee36&theme=dark&mode=weekly)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=sl1dee36&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+  
   </div>
   
   [![C#](https://img.shields.io/badge/C%23-02303A?style=for-the-badge&logo=csharp&logoColor=white)](https://www.csharp-lang.org/)
