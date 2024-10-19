@@ -29,10 +29,10 @@
   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
   [![Kotlin](https://img.shields.io/badge/Kotlin-0095B6?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 
-  <div>
+  <!--<div>
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SL1dee36&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
-  </div>
+  </div>-->
   
 </div>
 
