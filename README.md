@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVpMTcyOXY2djBhOHR2ZHJwODBtdHdoajQ1MjIzc3Z6anB0cmk2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="256"/><div id="badges">
     
-  <a href="https://t.me/SpectralSide">
+  <a href="https://t.me/sl1dee36">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCW2Rwdgl_yvV86GQa3S0Dxw">
